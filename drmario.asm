@@ -1,10 +1,6 @@
-################# CSC258 Assembly Final Project ###################
-# This file contains our implementation of Dr Mario.
+################# Dr. Mario ###################
 #
-# Student 1: Laith Al Khoury, 1009984607
-# Student 2: Thiyaan Karunanayake, 1010249438
-# We assert that the code submitted here is entirely our own 
-# creation, and will indicate otherwise when it is not.
+# Dr. Mario Game in MIPS Assembly
 #
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       2
