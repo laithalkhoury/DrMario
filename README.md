@@ -2,10 +2,6 @@
 
 A fully playable implementation of Dr. Mario built entirely in MIPS assembly, running on a 64×64 bitmap display in the MARS simulator. Written from scratch as a final project for CSC258 (Computer Organization) at the University of Toronto.
 
-## Demo
-
-> Runs in [MARS MIPS Simulator](http://courses.missouristate.edu/KenVollmar/mars/) with Bitmap Display and Keyboard/Display MMIO Simulator tools enabled.
-
 ---
 
 ## Features
