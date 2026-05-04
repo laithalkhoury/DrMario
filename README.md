@@ -75,4 +75,4 @@ The Fever theme is encoded as two parallel note arrays (`fever_guitar`, `fever_o
 - Laith Al Khoury
 - Thiyaan Karunanayake
 
-University of Toronto — CSC258H1, Winter 2024
+University of Toronto — CSC258H1, Winter 2025
